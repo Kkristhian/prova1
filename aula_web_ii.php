@@ -18,9 +18,7 @@
         </div>
     </div>
     <br>
-        <P>E-mail: kristhianluz@unidavi.edu.br</P>
-        <p>Telefone: 984171345 </p>
-        
+
     <div class="container">
      
         <div class="principal">
